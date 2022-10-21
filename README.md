@@ -8,7 +8,6 @@ The motivation of doing this assignment was for me to really dig down in the cod
 
 ## Table of Content
 - [Webpage](#webpage)
-- [Links](#links)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
