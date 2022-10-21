@@ -161,15 +161,11 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+/* consolidated redundent code */
+.search-engine-optimization img,
+.social-media-marketing img,
+.online-reputation-management img
+ {
     max-height: 200px;
 }
 
