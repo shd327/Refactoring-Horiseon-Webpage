@@ -86,20 +86,15 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* consolidated redundent code */
+.benefit-lead,
+.benefit-cost, 
+.benefit-brand{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
 /* consolidated redundent code */
 .benefit-lead h3,
