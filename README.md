@@ -22,7 +22,7 @@ The motivation of doing this assignment was for me to really dig down in the cod
 
 ![](Assets/01-html-css-git-homework-demo.png)
 
-### Installing
+### Installation
 
 * N/A
 
@@ -56,7 +56,7 @@ This project is free use
 
 [Live Link]()
 
-[Github Link]()
+[Github Link](https://github.com/shd327/refactoring-Horiseon-Webpage)
 
 
 
