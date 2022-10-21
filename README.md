@@ -20,7 +20,7 @@ The motivation of doing this assignment was for me to really dig down in the cod
 
 ## Webpage
 
-![](Assets/01-html-css-git-homework-demo.png)
+![](assets//images/01-html-css-git-homework-demo.png)
 
 ### Installation
 
